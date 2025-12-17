@@ -9,6 +9,9 @@ Este projeto foi desenvolvido com o objetivo de praticar e consolidar conceitos 
 - display: flex
 - justify-content
 - align-items
+- Flex-grow
+- Flex-basis
+- Flex Container
 - flex-direction
 - Centralização de elementos
 - Organização de layout
